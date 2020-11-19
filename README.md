@@ -1,1 +1,3 @@
 # LearnJavaScript
+
+Learning about Javascript
